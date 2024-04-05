@@ -1,2 +1,2 @@
 # Asteroids
-This is a replication of the original Asteroids game played on arcades.
+This is a replication of the classic Atari arcade game, Asteroids released in 1979.
